@@ -44,7 +44,7 @@
     <Compile Include="RulesAttribute.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\RulesManagement\RulesManagement.csproj">
+    <ProjectReference Include="..\2.0\RulesManagement\RulesManagement.csproj">
       <Project>{0c9ceedb-9c80-4a2b-9780-b6a3c943ea6f}</Project>
       <Name>RulesManagement</Name>
     </ProjectReference>
